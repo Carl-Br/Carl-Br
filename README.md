@@ -5,6 +5,8 @@
 * Made in Germany <br>
 * 👯 I’m looking to collaborate ... 
 
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seeyou&layout=compact)(https://github.com/Seeyou/github-readme-stats)
+
 
 # Visitors:
 ![visitor](https://profile-counter.glitch.me/Shynex/count.svg)
