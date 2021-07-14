@@ -8,7 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shynex&layout=compact)](https://github.com/shynex/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shynex)](https://github.com/Shynex/github-readme-stats)
-
 # Visitors:
 ![visitor](https://profile-counter.glitch.me/Shynex/count.svg)
