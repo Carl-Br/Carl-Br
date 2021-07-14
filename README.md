@@ -5,7 +5,8 @@
 * Made in Germany <br>
 * 👯 I’m looking to collaborate ... 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shynex&show_icons=true&theme=dark&count_private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shynex&show_icons=true&theme=dark&count_private=true&show_icons=true)
+
 
 
 # Visitors:
