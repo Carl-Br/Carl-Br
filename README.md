@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Contact me on Discord : Shynex#1000
 
