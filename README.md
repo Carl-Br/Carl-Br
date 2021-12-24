@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * Contact me on Discord : Shynex#2248 <br>
-* Age: 17 <br>
+* Age: 18 <br>
 * Made in Germany <br>
 * 👯 I’m looking to collaborate ... 
 
