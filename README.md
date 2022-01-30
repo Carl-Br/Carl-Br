@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* Contact me on Discord : Shynex#2248 <br>
+* Contact me on Discord : Carl ;)#2284 <br>
 * Age: 18 <br>
 * Made in Germany <br>
 * 👯 I’m looking to collaborate ... 
